@@ -1,0 +1,15 @@
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.exe
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.deps.json
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.runtimeconfig.json
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.dll
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\bin\Debug\net6.0\primeiroPrograma.pdb
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.csproj.AssemblyReference.cache
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.AssemblyInfoInputs.cache
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.AssemblyInfo.cs
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.dll
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\refint\primeiroPrograma.dll
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.pdb
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\primeiroPrograma.genruntimeconfig.cache
+C:\Curso_C#\Trilha_CSharp\primeiroProjeto\projetoCSharp\primeiroPrograma\obj\Debug\net6.0\ref\primeiroPrograma.dll
